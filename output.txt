@@ -1,0 +1,8 @@
+123
+a
+1
+1.2
+1.23
+97
+Size of a is :4
+NamsteDuniya
