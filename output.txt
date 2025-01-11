@@ -1,8 +1,98 @@
-123
-a
-1
-1.2
-1.23
-97
-Size of a is :4
-NamsteDuniya
+not prime for2
+Prime for3
+not prime for4
+not prime for5
+Prime for6
+Prime for7
+Prime for8
+Prime for9
+not prime for10
+Prime for11
+Prime for12
+Prime for13
+Prime for14
+Prime for15
+Prime for16
+Prime for17
+Prime for18
+Prime for19
+not prime for20
+Prime for21
+Prime for22
+Prime for23
+Prime for24
+not prime for25
+Prime for26
+Prime for27
+Prime for28
+Prime for29
+Prime for30
+Prime for31
+Prime for32
+Prime for33
+Prime for34
+Prime for35
+Prime for36
+Prime for37
+Prime for38
+Prime for39
+Prime for40
+Prime for41
+Prime for42
+Prime for43
+Prime for44
+Prime for45
+Prime for46
+Prime for47
+Prime for48
+Prime for49
+not prime for50
+Prime for51
+Prime for52
+Prime for53
+Prime for54
+Prime for55
+Prime for56
+Prime for57
+Prime for58
+Prime for59
+Prime for60
+Prime for61
+Prime for62
+Prime for63
+Prime for64
+Prime for65
+Prime for66
+Prime for67
+Prime for68
+Prime for69
+Prime for70
+Prime for71
+Prime for72
+Prime for73
+Prime for74
+Prime for75
+Prime for76
+Prime for77
+Prime for78
+Prime for79
+Prime for80
+Prime for81
+Prime for82
+Prime for83
+Prime for84
+Prime for85
+Prime for86
+Prime for87
+Prime for88
+Prime for89
+Prime for90
+Prime for91
+Prime for92
+Prime for93
+Prime for94
+Prime for95
+Prime for96
+Prime for97
+Prime for98
+Prime for99
