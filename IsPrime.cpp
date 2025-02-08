@@ -29,4 +29,4 @@ int main()
     {
         cout << "The no is not prime" << endl;
     }
-}
+}   
